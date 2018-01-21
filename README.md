@@ -1,2 +1,2 @@
-# School
-School Homework for CSUS
+# School Homework Projects
+School Homework for California State University, Sacramento
